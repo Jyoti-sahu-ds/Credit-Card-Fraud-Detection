@@ -2,7 +2,7 @@
 ## Introduction
 
 My objective for this project is to assist in preventing, reducing, or avoiding credit card fraud. fraud is typically only discovered after it has already occurred, it is crucial for me to evaluate and visualize the Credit Card Transactions datasets. However, fraud detection is the best option for eliminating it from the environment and averting a recurrence in the event that they are unable to prevent it in time.
-## BackGround
+## Background
 
 The use of credit card to commit fraud is known as credit card fraud. Cybersecurity is becoming increasingly significant in our daily lives. When addressing digital life security, the main issue is identifying anomalous behavior. Many consumers prefer using credit cards when they make purchases or do online transactions. Occasionally, we can make purchases even when we don't have the cash on hand thanks to credit card credit limitations. However, cyber thieves take use of these advantages.
 
